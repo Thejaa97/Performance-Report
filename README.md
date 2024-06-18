@@ -1,6 +1,8 @@
 # Performance Report
 Power BI Dashboard
 
+![Report](https://github.com/Thejaa97/Performance-Report/assets/170193307/405d1d49-6f0e-4b21-8240-3c61b7ac6af2)
+
 ## Project Overview
 
 This condensed dynamic performance dashboard utilises specially SWITCH measures and some conditional formatting to understand main pain points which is created based on madeup plant company. The report mainly focuses on Gross Profit, Quantity and Sales performances.
