@@ -35,3 +35,9 @@ Here I used three different Excel data tables which contains plant fact data, ac
 *  February is the best month for Gross profit for the first quarter in 2024 and Gross profit exceeds the same period of the last year by $0.11M.
 *  By focusing on account profitability segmentation chart, we can build up more rapport to with the accounts get more sales in those profitability ranges 
 
+## What I learned
+- How to build SWITCH measures for dynamic analysis by saving space
+- Building virtual tables that need to be made for the model
+- How to build the model using DAX measures and calculated columns
+- Designing main visuals using Waterfall and scatter charts
+- The importance of creating a condensed dynamic dashboard visualization for better data-driven decision-making
