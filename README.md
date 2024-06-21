@@ -1,4 +1,4 @@
-# Performance Report
+# Performance Analysis Dashboard
 Power BI Dashboard
 
 ![Report](https://github.com/Thejaa97/Performance-Report/assets/170193307/405d1d49-6f0e-4b21-8240-3c61b7ac6af2)
